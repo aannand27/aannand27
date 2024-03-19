@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aannand27
+- 👋 Hi, I’m @Shubham Anand
 - 👀 I’m interested in new softwares and technologies.
 - 🌱 I’m currently learning big data.
 - 💞️ I’m looking to collaborate on anything related to AI and data science.
